@@ -1,9 +1,9 @@
-#registerOrganizza
+###registerOrganizza
 
 #Test Case: Register successfully
 Test Data:
 ## URL: https://www.organizze.com.br/
-## E-mail: <any e-mail>
+## E-mail: any e-mail
 ## Password: testaut2020
 Precondition:
 ## E-mail used must not have an account registered in the Organizze website
